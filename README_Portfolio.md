@@ -55,7 +55,3 @@ The analyzer uses the following (approximate) pricing per 1,000 tokens:
 ---
 
 **Note:** *This project is intended for estimation purposes. Actual OpenAI API billing may vary based on specific model versions and usage tiers.*
-
----
-
-**Would you like me to add a section on how to expand this to support Claude or Llama models?**
